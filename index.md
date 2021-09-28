@@ -53,7 +53,7 @@ title:  "Choi Byungyoon's CV Page"
 2015&ndash;2017
 
 : [한국과학기술원][kaist], 공학석사 \\
-[Scalable Graphics/Geometric Algorithm Lab.][sgga] 소속
+[Scalable Graphics, Vision, & Robotics Lab.][sgvr] 소속
 
 2013&ndash;2014
 
@@ -68,21 +68,25 @@ title:  "Choi Byungyoon's CV Page"
 
 : [KAIST부설 한국과학영재학교][ksa]
 
-[kaist]: http://www.kaist.ac.kr/
-[sgga]: http://sgga.kaist.ac.kr/
-[titech]: http://www.titech.ac.jp/
-[kumazawa]: http://kuma2.isl.titech.ac.jp/
+[kaist]: https://www.kaist.ac.kr/
+[sgvr]: https://sgvr.kaist.ac.kr/
+[titech]: https://www.titech.ac.jp/
+[kumazawa]: https://kuma2.isl.titech.ac.jp/
 [ksa]: https://ksa.hs.kr/
 
 ### 취업
 
-2017&ndash;
+2017&ndash;2020
 
 : [넥슨][nexon], 프로그래머 \\
 [devCAT][devCAT] 소속
 
-[nexon]: http://www.nexon.com/
-[devCAT]: http://devcat.nexon.com/
+[nexon]: https://www.nexon.com/
+[devCAT]: https://devcat.com/
+
+2020&ndash;
+
+: [devCAT][devCAT]의 넥슨으로부터의 분사
 
 ### 프로젝트 경력
 
@@ -106,18 +110,18 @@ title:  "Choi Byungyoon's CV Page"
 [Glitch][glitch], 2011 \\
 <small>게임 기획, 사운드 엔지니어링</small>
 
-[ggj]: http://globalgamejam.org/
-[ggj2016]: http://globalgamejam.org/2016/games/ritual-board-game
-[ggj2015]: http://globalgamejam.org/2015/games/dungeon-commander
-[ggj2014]: http://globalgamejam.org/2014/games/enabler-tentative
-[ggj2013]: http://2013.globalgamejam.org/2013/solidheart
-[ggj2016loc]: http://globalgamejam.org/2016/jam-sites/ggj-2016-seoul-5minlab
-[ggj2015loc]: http://globalgamejam.org/2015/jam-sites/ggj-seoul-5minlab
-[ggj2014loc]: http://globalgamejam.org/2014/jam-sites/ggjshinggj2014%E6%96%B0%E5%AE%BF%EF%BC%89
-[ggj2013loc]: http://2013.globalgamejam.org/sites/2013/ggj-seoul-seogang-univ
-[hajehp]: http://haje.org/
+[ggj]: https://globalgamejam.org/
+[ggj2016]: https://globalgamejam.org/2016/games/ritual-board-game
+[ggj2015]: https://globalgamejam.org/2015/games/dungeon-commander
+[ggj2014]: https://globalgamejam.org/2014/games/enabler-tentative
+[ggj2013]: http://2013-server.globalgamejam.org/2013/solidheart
+[ggj2016loc]: https://globalgamejam.org/2016/jam-sites/ggj-2016-seoul-5minlab
+[ggj2015loc]: https://globalgamejam.org/2015/jam-sites/ggj-seoul-5minlab
+[ggj2014loc]: https://globalgamejam.org/2014/jam-sites/ggjshinggj2014%E6%96%B0%E5%AE%BF%EF%BC%89
+[ggj2013loc]: http://2013-server.globalgamejam.org/sites/2013/ggj-seoul-seogang-univ
+[hajehp]: https://haje.org/
 [mmo]: https://bitbucket.org/haje/mmo
-[glitch]: http://haje.org/projects/glitch/index
+[glitch]: https://haje.org/projects/glitch/index
 *[HAJE]: 한국과학기술원 게임개발 동아리
 
 ### 출판
