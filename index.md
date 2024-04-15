@@ -64,15 +64,10 @@ title:  "Choi Byungyoon's CV Page"
 
 : 한국과학기술원, 공학학사
 
-2008&ndash;2011
-
-: [KAIST부설 한국과학영재학교][ksa]
-
 [kaist]: https://www.kaist.ac.kr/
 [sgvr]: https://sgvr.kaist.ac.kr/
 [titech]: https://www.titech.ac.jp/
 [kumazawa]: https://kuma2.isl.titech.ac.jp/
-[ksa]: https://ksa.hs.kr/
 
 ### 취업
 
@@ -84,9 +79,9 @@ title:  "Choi Byungyoon's CV Page"
 [nexon]: https://www.nexon.com/
 [devCAT]: https://devcat.com/
 
-2020&ndash;
+2020&ndash;2024
 
-: [devCAT][devCAT]의 넥슨으로부터의 분사
+: [devCAT][devCAT], 프로그래머
 
 ### 프로젝트 경력
 
