@@ -1,0 +1,55 @@
+/**
+ * Basic styling
+ */
+ body {
+  font-size: 17px;
+  word-break: keep-all;
+  text-align: justify;
+}
+
+/**
+ * Headings
+ */
+ h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+/**
+ * Definition Lists
+ */
+ dt {
+  float: left;
+  font-weight: bold;
+}
+dd {
+  margin-left: 7.5em;
+}
+dl {
+  margin-bottom: 1.5em;
+}
+
+small {
+  margin-left: 1.5em;
+  display:inline-block;
+}
+
+.nobreak-container {
+  display:inline-block;
+}
+
+p {
+  text-indent: 0.5em;
+}
+
+br {
+  margin-bottom: 0.3em;
+}
+
+.post-title {
+  margin-bottom: 0.2em;
+  margin-top: 0.2em;
+}
+
+.post-meta {
+  justify-content: right
+}
