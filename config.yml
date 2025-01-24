@@ -26,6 +26,7 @@ languages:
           url: search
           weight: 4
     params:
+      author: "최병윤"
       profileMode:
         enabled: true
         title: "최병윤"
@@ -51,6 +52,7 @@ languages:
           url: search
           weight: 4
     params:
+      author: "Choi Byungyoon"
       profileMode:
         enabled: true
         title: "Choi Byungyoon"    
@@ -65,7 +67,6 @@ outputs:
 params:
   env: production
   description: "Choi Byungyoon's Personal Website"
-  author: "Choi Byungyoon"
   defaultTheme: auto
   showReadingTime: true
   showBreadCrumbs: true
