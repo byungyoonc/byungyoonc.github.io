@@ -83,7 +83,9 @@ params:
       url: "https://bsky.app/profile/byungyoonc.bsky.social"
     - name: "Mastodon"
       url: "https://uri.life/@byungyoonc"
-    - name: "Mail"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/%EB%B3%91%EC%9C%A4-%EC%B5%9C-aa24a211b/"
+    - name: "email"
       url: "mailto:byungyoonc@gmail.com"
 
 markup:
