@@ -1,0 +1,92 @@
+baseURL: 'https://byungyoonc.github.io/'
+languageCode: 'ko'
+defaultcontentlanguage: 'ko'
+title: "Rumination"
+theme: 'PaperMod'
+
+languages:
+  ko:
+    languageName: "한국어"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+    menu:
+      main:
+        - name: 이력
+          url: cv/
+          weight: 1
+        - name: 블로그
+          url: posts/
+          weight: 2
+        - name: 태그
+          url: tags/
+          weight: 3
+        - name: 검색
+          url: search
+          weight: 4
+    params:
+      profileMode:
+        enabled: true
+        title: "최병윤"
+        subtitle: "게임 클라이언트 / 그래픽스 프로그래머"
+  en:
+    languageName: "English"
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+    menu:
+      main:
+        - name: CV
+          url: cv/
+          weight: 1
+        - name: Blog
+          url: posts/
+          weight: 2
+        - name: Tags
+          url: tags/
+          weight: 3
+        - name: Search
+          url: search
+          weight: 4
+    params:
+      profileMode:
+        enabled: true
+        title: "Choi Byungyoon"    
+        subtitle: "Game Client / Graphics Programmer"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Choi Byungyoon's Personal Website"
+  author: "Choi Byungyoon"
+  defaultTheme: auto
+  showReadingTime: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  displayFullLangName: true
+  dateFormat: "2006-01-02"
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/byungyoonc/"
+    - name: "Twitter"
+      url: "https://twitter.com/kevincby_"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/byungyoonc.bsky.social"
+    - name: "Mastodon"
+      url: "https://uri.life/@byungyoonc"
+    - name: "Mail"
+      url: "mailto:byungyoonc@gmail.com"
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
