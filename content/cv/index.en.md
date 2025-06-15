@@ -51,17 +51,21 @@ School of Computing
 
 : [Nexon][nexon], Progammer
 [devCAT][devCAT] Studio
+<small>[Mabinogi Mobile][mabinogimobile]</small> 
 
 [nexon]: https://www.nexon.com/
 [devCAT]: https://devcat.com/
+[mabinogimobile]: https://mabinogimobile.nexon.com/
 
 2020--2022
 
 : [devCAT][devCAT], Programmer
+<small>[Mabinogi Mobile][mabinogimobile]</small> 
 
 2022--2024
 
 : [devCAT][devCAT], Programmer, Lead of Graphics Programming Team
+<small>[Mabinogi Mobile][mabinogimobile]</small> 
 
 ### Projects
 

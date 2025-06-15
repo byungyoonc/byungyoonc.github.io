@@ -51,17 +51,21 @@ PC 및 모바일 디바이스에서의 컴퓨터 그래픽스에 대한 지식�
 
 : [넥슨][nexon], 프로그래머
 [devCAT][devCAT] 소속
+<small>[마비노기 모바일][mabinogimobile]</small> 
 
 [nexon]: https://www.nexon.com/
 [devCAT]: https://devcat.com/
+[mabinogimobile]: https://mabinogimobile.nexon.com/
 
 2020--2022
 
 : [devCAT][devCAT], 프로그래머
+<small>[마비노기 모바일][mabinogimobile]</small> 
 
 2022--2024
 
 : [devCAT][devCAT], 프로그래머, 그래픽스 팀장
+<small>[마비노기 모바일][mabinogimobile]</small> 
 
 ### 프로젝트 경력
 
