@@ -1,6 +1,6 @@
 +++
 date = '2025-01-30T13:00:12+09:00'
-draft = true
+draft = false
 title = 'The Rebirth of Pebble'
 tags = ["Smartwatches", "Tech"]
 +++
